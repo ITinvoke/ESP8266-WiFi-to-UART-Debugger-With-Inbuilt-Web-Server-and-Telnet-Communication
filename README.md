@@ -1,5 +1,8 @@
 WiFi <-> UART Debugger for Web and Telnet Using ESP-01 (ESP8266)
 
+Find guide on Youtube
+https://youtu.be/8Z48DRWMrNk
+
 Description
 The WiFi <-> UART Debugger for Web and Telnet using ESP-01 (ESP8266) is an advanced and versatile tool designed to streamline the process of electronic debugging and testing. This guide provides comprehensive instructions on setting up, configuring, and utilizing the debugger to enhance your development workflow. The device features an inbuilt web server, WiFi access point (AP), automatic baud rate adjustment, and persistent storage for settings, making it a powerful addition to any developer’s toolkit.
 
