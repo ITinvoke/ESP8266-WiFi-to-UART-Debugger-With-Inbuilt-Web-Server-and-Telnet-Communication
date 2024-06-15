@@ -28,6 +28,8 @@ In electronic debugging and testing, precision and efficiency are paramount. The
 •	User-Friendly Interface: The web interface provides an intuitive platform for beginners and advanced users alike, while the Telnet interface offers a familiar environment for those accustomed to command-line tools.
 By incorporating the WiFi <-> UART Debugger into your development process, you gain a powerful tool that enhances your ability to test, debug, and optimize your electronic projects with greater ease and efficiency. This guide will walk you through the steps to maximize the potential of your ESP-01 (ESP8266) module, transforming it into an indispensable component of your toolkit.
 
+Note: email me for firmware.
+
 Thanks.
 Malin Karunarathne
 itinvoke@gmail.com
